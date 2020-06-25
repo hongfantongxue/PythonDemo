@@ -34,7 +34,7 @@ print(student)
 str = "牛奶奶找刘奶奶买牛奶"
 d = {}
 for i in str:
-    d[i] = d.get(i, 0)+1
+    d[i] = d.get(i, 0) + 1
 print(d)
 
 # 字典.keys() 字典.values()方法

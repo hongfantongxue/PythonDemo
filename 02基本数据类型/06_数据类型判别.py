@@ -15,4 +15,4 @@ print("abc123".isalnum())
 
 # 4.类型转换
 # 4.1.数字类型转字符串
-print("My age is "+str(age))
+print("My age is " + str(age))

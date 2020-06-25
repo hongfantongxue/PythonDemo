@@ -11,6 +11,7 @@
     借助python科学计算库math/scipy/numpy
 """
 import math
+
 # 指数运算 e = 2.71828183 的一次方
 print(math.exp(1))
 # 对数运算
@@ -19,6 +20,7 @@ print(math.log2(2))
 print(math.sqrt(4))
 
 import numpy as np
+
 a = [1, 2, 3, 4, 5]
 # 求平均值
 print(np.mean(a))

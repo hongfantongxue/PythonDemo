@@ -25,4 +25,3 @@ print("java:", str.count("java"))
 # 字符串.upper(), 字母全部大写
 # 字符串.lower(), 字母全部小写
 # 字符串.title(),首字母大写
-

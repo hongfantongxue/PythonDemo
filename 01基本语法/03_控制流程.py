@@ -1,4 +1,3 @@
-
 """
 例子:
     实现1-10求和
@@ -12,9 +11,9 @@ print(res)
 # 循环, while
 i = 1
 res = 0
-while i <=5:
-    res +=i
-    i+=1
+while i <= 5:
+    res += i
+    i += 1
 print(res)
 
 # 分支流程, if
@@ -23,16 +22,3 @@ if age > 18:
     print("大于18")
 else:
     print("小于等于18")
-
-
-
-
-
-
-
-
-
-
-
-
-

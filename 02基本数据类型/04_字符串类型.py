@@ -27,7 +27,6 @@ print(str[0:3])
     字符串成倍复制: 字符串 * n
 """
 
-
 # 1.判断子字符串是否在原字符串中 in
 str = "hello python"
 print("llo" in str)
@@ -50,23 +49,3 @@ print(ord("上"))
 
 # 将unicode编码转换为字符, chr(编码)
 print(chr(20013))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
